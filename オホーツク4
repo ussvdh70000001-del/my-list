@@ -1,0 +1,325 @@
+#EXTM3U url-tvg="https://haru.charandom.blog/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="フジテレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png",フジテレビ
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="NHK東京・教育_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_1.png",NHK Eテレ
+https://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="NHK東京・総合_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK 総合
+https://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="NHK東京・総合_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK 総合 2
+https://haru.charandom.blog/stream/jp/nhk_g_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="日本テレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png",日本テレビ
+https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="TBS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png",TBS
+https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="TOKYO・MX_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png",TOKYO MX1
+https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="TOKYO・MX2_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png",TOKYO MX2
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="テレビ朝日_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png",テレビ朝日
+https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="テレ東_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png",テレビ東京
+https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="ABCテレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png",ABCテレビ
+https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="KBS京都_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png",KBS京都
+https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="関西テレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png",関西テレビ
+https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="毎日テレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png",MBS毎日放送
+https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="NHK大阪・総合_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",NHK 総合 大阪
+https://haru.charandom.blog/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="サンテレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",サンテレビ
+https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="テレビ大阪_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png",テレビ大阪
+https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="読売テレビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png",読売テレビ
+https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="アニマックス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png",アニマックス
+https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS10プレミアム_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png",BS10 プレミアム
+https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS12トゥエルビ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png",BS12 トゥエルビ
+https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS朝日_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png",BS朝日
+https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS朝日_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",BS朝日 4K
+https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BSフジ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png",BSフジ
+https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BSフジ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",BSフジ 4K
+https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS日テレ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png",BS日テレ
+https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS日テレ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",BS日テレ 4K
+https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS-TBS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png",BS-TBS
+https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BSテレ東_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png",BSテレ東
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BSテレ東_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",BSテレ東 4K
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BSよしもと_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png",BSよしもと
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="CH.625" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png",BS10
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="BS11-イレブン_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png",BS11
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="ディズニー・チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png",ディズニー・チャンネル
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="釣りビジョン_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png",釣りビジョン
+https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="グリーンチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png",グリーンチャンネル
+https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png",放送大学 EX
+https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="J-COM-BS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png",JCOM BS
+https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="J-SPORTS-1_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png",J SPORTS 1
+https://haru.charandom.blog/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="J-SPORTS-2_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png",J SPORTS 2
+https://haru.charandom.blog/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="J-SPORTS-3_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png",J SPORTS 3
+https://haru.charandom.blog/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="J-SPORTS-4_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png",J SPORTS 4
+https://haru.charandom.blog/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="NHK・BS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png",NHK BS
+https://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="NHK・BS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png",NHK BS 2
+https://haru.charandom.blog/stream/jp/nhk_bs_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="CH.621" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_15.png",NHK BSプレミアム4K
+https://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/",NHK BS8K
+https://haru.charandom.blog/stream/jp/nhk_bs8k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="日本映画専門チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png",日本映画専門チャンネル
+https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="WOWOWシネマ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png",WOWOWシネマ
+https://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="WOWOWライブ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png",WOWOWライブ
+https://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="WOWOWプラス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png",WOWOWプラス
+https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="WOWOWプライム_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png",WOWOWプライム
+https://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="アニメシアター(AT-X)_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png",AT-X
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="アクションチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png",アクションチャンネル
+https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="アニマルプラネット_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png",アニマルプラネット
+https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="CH.565" tvg-logo="https://xuanzi-storage.netgenx.site/",BBCニュース
+https://haru.charandom.blog/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="CNNj_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",CNNj
+https://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="カートゥーン-ネットワーク_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png",カートゥーン ネットワーク
+https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="チャンネル銀河_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png",チャンネル銀河
+https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="Dlife(ディーライフ)_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png",Dlife
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ディスカバリーチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png",ディスカバリーチャンネル
+https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ディズニージュニア_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png",ディズニージュニア
+https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="衛星劇場_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png",衛星劇場
+https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ファミリー劇場_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png",ファミリー劇場
+https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png",FIGHTING TV サムライ
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="フジテレビNEXT_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png",フジテレビNEXT
+https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="フジテレビONE_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png",フジテレビONE
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="フジテレビTWO_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png",フジテレビTWO
+https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="GAORA-SPORTS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png",GAORA SPORTS
+https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ゴルフネットワーク_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png",ゴルフネットワーク
+https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png",ヒストリーチャンネル
+https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ホームドラマチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png",ホームドラマチャンネル
+https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="時代劇専門チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png",時代劇専門チャンネル
+https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="KBS-WORLD_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",KBS World
+https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="CH.657" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png",KNTV
+https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="歌謡ポップスチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png",歌謡ポップスチャンネル
+https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="キッズステーション_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png",キッズステーション
+https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="LaLa-TV_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png",女性チャンネル♪LaLa TV
+https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="MTV_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png",MTV
+https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="メ～テレNEXT_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",メーテレNEXT
+https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="CH.658" tvg-logo="https://xuanzi-storage.netgenx.site/",Mnet
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="MONDOTV_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png",MONDO TV
+https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ムービープラス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png",ムービープラス
+https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ミュージック・エア_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_76.png",ミュージック・エア
+https://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ミュージック・ジャパンTV_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png",ミュージック・ジャパンTV
+https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png",MUSIC ON! TV
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ミステリーチャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png",ミステリーチャンネル
+https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="映画・チャンネルNECO_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png",チャンネルNECO
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="日テレNEWS24_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",日テレNEWS24
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png",ナショナル ジオグラフィック
+https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="日テレジータス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png",日テレジータス
+https://haru.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="日テレプラス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_68.png",日テレプラス
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="Pigoo_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png",Pigoo
+https://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="囲碁・将棋チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_95.png",囲碁・将棋チャンネル
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="スカイA_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png",スカイA
+https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="スペースシャワーTV_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png",スペースシャワーTV
+https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="スポーツライブ+_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png",スポーツライブ＋
+https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="TBSチャンネル1_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png",TBSチャンネル1
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="TBSチャンネル2_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png",TBSチャンネル2
+https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="TBS-NEWS_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_93.png",TBS NEWS
+https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="テレ朝チャンネル1_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png",テレ朝チャンネル1
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="テレ朝チャンネル2_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png",テレ朝チャンネル2
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="旅チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png",旅チャンネル
+https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="タカラヅカ・スカイ・ステージ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_91.png",タカラヅカ・スカイ・ステージ
+https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="鉄道チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png",鉄道チャンネル
+https://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ザ・シネマ_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png",ザ・シネマ
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="東映チャンネル_jp" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png",東映チャンネル
+https://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="V-パラダイス_jp" tvg-logo="https://xuanzi-storage.netgenx.site/",Vパラダイス
+https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Other | SG 01" tvg-id="rch_45" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png",ウェザーニュース
+https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
