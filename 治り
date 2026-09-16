@@ -1,0 +1,148 @@
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK東京・総合
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK東京・教育
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+#EXTINF:-1 group-title="Tokyo" tvg-id="日本テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",日本テレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",テレビ朝日
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+#EXTINF:-1 group-title="Tokyo" tvg-id="TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",テレ東
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",フジテレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO・MX_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
+https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+
+#EXTINF:-1 group-title="BS" tvg-id="NHK・BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+#EXTINF:-1 group-title="BS" tvg-id="BS日テレ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",B日テレ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+#EXTINF:-1 group-title="BS" tvg-id="BS朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS朝日
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+#EXTINF:-1 group-title="BS" tvg-id="BS-TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+#EXTINF:-1 group-title="BS" tvg-id="BSテレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BSテレ東
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+#EXTINF:-1 group-title="BS" tvg-id="BSフジ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BSフジ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+#EXTINF:-1 group-title="BS" tvg-id="NHKBSP4K.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="BS" tvg-id="CH.621" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+#EXTINF:-1 group-title="BS" tvg-id="CH.623" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOWシネマ
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+#EXTINF:-1 group-title="BS" tvg-id="CH.622" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+#EXTINF:-1 group-title="BS" tvg-id="CH.625" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs201.gif",BS 10 Premium
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+#EXTINF:-1 group-title="BS" tvg-id="CH.603" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs242.gif",JSport 1
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+#EXTINF:-1 group-title="BS" tvg-id="CH.604" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs243.gif",JSport 2
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+#EXTINF:-1 group-title="BS" tvg-id="CH.606" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs244.gif",JSport 3
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+#EXTINF:-1 group-title="BS" tvg-id="CH.605" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs245.gif",JSport 4
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+#EXTINF:-1 group-title="BS" tvg-id="CH.688" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs234.gif",グリーンチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+#EXTINF:-1 group-title="BS" tvg-id="CH.670" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs236.gif",アニマックス
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+#EXTINF:-1 group-title="BS" tvg-id="CH.634" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs255.gif",日本映画専門チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+#EXTINF:-1 group-title="BS" tvg-id="釣りビジョン_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs251.gif",釣りビジョン
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+#EXTINF:-1 group-title="BS" tvg-id="CH.620" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs256.gif",ディズニー・チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+#EXTINF:-1 group-title="BS" tvg-id="j-com-bs_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png",Jcom BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+
+#EXTINF:-1 group-title="CS" tvg-id="rch_49" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs250.gif",スカイA
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+#EXTINF:-1 group-title="CS" tvg-id="rch_51" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs254.gif",GAORA
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+#EXTINF:-1 group-title="CS" tvg-id="スペースシャワーTV_jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs322.gif",スペースシャワーT
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs26
+#EXTINF:-1 group-title="CS" tvg-id="CH.640" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs323.gif",MTV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+#EXTINF:-1 group-title="CS" tvg-id="rch_85" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs329.gif",歌謡ポップス
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+#EXTINF:-1 group-title="CS" tvg-id="CH.669" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs330.gif",キッズステーション
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+#EXTINF:-1 group-title="CS" tvg-id="CH.660" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs293.gif",ファミリー劇場
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+#EXTINF:-1 group-title="CS" tvg-id="CH.659" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs295.gif",Mondo TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
+#EXTINF:-1 group-title="CS" tvg-id="CH.613" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs309.gif",フジテレビNext
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+#EXTINF:-1 group-title="CS" tvg-id="toeichannel.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs218.gif",東映チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+#EXTINF:-1 group-title="CS" tvg-id="CH.661" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs294.gif",ホームドラマチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+#EXTINF:-1 group-title="CS" tvg-id="channelginga.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs305.gif",チャンネル銀河
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+#EXTINF:-1 group-title="CS" tvg-id="CH.544" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/544.gif",旅チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+
+#EXTINF:-1 group-title="CS" tvg-id="CH.662" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs292.gif",時代劇専門チャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+#EXTINF:-1 group-title="CS" tvg-id="CH.628" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif",衛星劇場
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+#EXTINF:-1 group-title="CS" tvg-id="CH.632" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs240.gif",ムービープラス
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+#EXTINF:-1 group-title="CS" tvg-id="rch_75" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs262.gif",ゴルフネットワーク
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+#EXTINF:-1 group-title="CS" tvg-id="CH.639" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/premium/639.gif",Music Japan
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+#EXTINF:-1 group-title="CS" tvg-id="CH.654" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs314.gif",LaLa TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+#EXTINF:-1 group-title="CS" tvg-id="takarazukaskystage.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs290.gif",宝塚歌劇スカイステージ
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+#EXTINF:-1 group-title="CS" tvg-id="CH.675" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs343.gif",ナショナルジオグラフィック
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+#EXTINF:-1 group-title="CS" tvg-id="CH.672" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs339.gif",ディズニー・ジュニア
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+#EXTINF:-1 group-title="CS" tvg-id="CH.676" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs340.gif",ディスカバリーチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+#EXTINF:-1 group-title="CS" tvg-id="CH.677" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs341.gif",アニマルプラネット
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+#EXTINF:-1 group-title="CS" tvg-id="rch_43" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs342.gif",ヒストリーチャンネル
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+#EXTINF:-1 group-title="CS" tvg-id="CH.566" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs354.gif",CNNj 
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+#EXTINF:-1 group-title="CS" tvg-id="CH.565" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs353.gif",BBC News  
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+#EXTINF:-1 group-title="CS" tvg-id="CH.572" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs351.gif",TBS News
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+
+#EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",カートゥーンネットワーク
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs25
+
+#EXTINF:-1 tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx01
+
+
+#EXTINF:-1 tvg-id="ABCテレビ_jp" tvg-name="朝日放送" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD3-061-400x400.png",朝日放送
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx02
+
+#EXTINF:-1 tvg-id="関西テレビ_jp" tvg-name="関西TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",関西TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx03
+
+#EXTINF:-1 tvg-id="読売テレビ_jp" tvg-name="読売TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",読売TV
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx04
+
+#EXTINF:-1 tvg-id="テレビ大阪_jp" tvg-name="TV大阪" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV大阪
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
+
+#EXTINF:-1 tvg-id="NHK大阪・総合_jp" tvg-name="NHK大阪・総合" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK大阪・総合
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx06
+
+#EXTINF:-1 tvg-id="サンテレビ_jp" tvg-name="サンテレビ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",サンテレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=gx07
+
+#EXTINF:-1 tvg-id="日テレジータス_jp" tvg-name="Nittele G+" "https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png" ,日テレジータス
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
+
+#EXTINF:-1 tvg-id="フジテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",フジテレビ
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
