@@ -101,6 +101,12 @@ http://58.186.230.75:9394/stream/98.m3u
 #EXTINF:-1 group-title="" tvg-id="BSよしもと_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png?",(haru) BSよしもと
 http://58.186.230.75:9394/stream/53.m3u
 
+#EXTINF:-1 group-title="" tvg-id="グリーンチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-164-400x400.png?",(haru) グリーンチャンネル
+http://58.186.230.75:9394/stream/60.m3u
+
+#EXTINF:-1 group-title="" tvg-id="ゴルフネットワーク_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-167-400x400.png?",(haru) ゴルフネットワーク
+http://58.186.230.75:9394/stream/67.m3u
+
 #EXTINF:-1 group-title="" tvg-id="J-SPORTS-1_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-168-400x400.png?",(haru) J-SPORTS-1
 http://58.186.230.75:9394/stream/68.m3u
 
@@ -121,6 +127,9 @@ http://58.186.230.75:9394/stream/1.m3u
 
 #EXTINF:-1 group-title="" tvg-id="日テレジータス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png?",(haru) 日テレジータス
 http://58.186.230.75:9394/stream/90.m3u
+
+#EXTINF:-1 group-title="" tvg-id="ムービープラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png?",(haru) ムービープラス
+http://58.186.230.75:9394/stream/73.m3u
 
 #EXTINF:-1 group-title="" tvg-id="ナショナル-ジオグラフィック_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png?",(haru) ナショナル-ジオグラフィック
 http://58.186.230.75:9394/stream/75.m3u
@@ -209,6 +218,9 @@ http://58.186.230.75:9394/stream/137.m3u
 #EXTINF:-1 group-title="" tvg-id="ヒストリーチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-134-400x400.png?",(haru) ヒストリーチャンネル
 http://58.186.230.75:9394/stream/309.m3u
 
+#EXTINF:-1 group-title="" tvg-id="ミステリーチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-153-400x400.png?",(haru) ミステリーチャンネル
+http://58.186.230.75:9394/stream/323.m3u
+
 #EXTINF:-1 group-title="" tvg-id="Dlife(ディーライフ)_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-131-400x400.png?",(haru) Dlife(ディーライフ)
 http://58.186.230.75:9394/stream/95.m3u
 
@@ -220,6 +232,9 @@ http://58.186.230.75:9394/stream/132.m3u
 
 #EXTINF:-1 group-title="" tvg-id="V-パラダイス_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-635-75x75.png?",(haru) V-パラダイス
 http://58.186.230.75:9394/stream/133.m3u
+
+#EXTINF:-1 group-title="" tvg-id="囲碁・将棋チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-196-400x400.png?",(haru) 囲碁・将棋チャンネル
+http://58.186.230.75:9394/stream/136.m3u
 
 #EXTINF:-1 group-title="" tvg-id="旅チャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-143-400x400.png?",(haru) 旅チャンネル
 http://58.186.230.75:9394/stream/138.m3u
@@ -248,11 +263,23 @@ http://58.186.230.75:9394/stream/236.m3u
 #EXTINF:-1 group-title="" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png?",(haru) FIGHTING-TV-サムライ
 http://58.186.230.75:9394/stream/139.m3u
 
+#EXTINF:-1 group-title="" tvg-id="ダンスチャンネル_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-105-400x400.png?",(haru) ダンスチャンネル 放送終了
+http://58.186.230.75:9394/stream/140.m3u
+
 #EXTINF:-1 group-title="" tvg-id="鉄道チャンネル_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-546-75x75.png?",(haru) 鉄道チャンネル
 http://58.186.230.75:9394/stream/158.m3u
 
+#EXTINF:-1 group-title="" tvg-id="Pigoo_jp" tvg-logo="https://api2.bangumi.org/repix/monomedia/logo/csp/logo-000A-663-75x75.png?",(haru) Pigoo
+http://58.186.230.75:9394/stream/234.m3u
+
 #EXTINF:-1 group-title="" tvg-id="日テレNEWS24_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-102-400x400.png?",(haru) 日テレNEWS24
 http://58.186.230.75:9394/stream/112.m3u
+
+#EXTINF:-1 group-title="" tvg-id="TBS-NEWS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png?",(haru) TBS-NEWS
+http://58.186.230.75:9394/stream/233.m3u
+
+#EXTINF:-1 group-title="" tvg-id="CNNj_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-180-400x400.png?",(haru) CNNj
+http://58.186.230.75:9394/stream/315.m3u
 
 #EXTINF:-1 group-title="" tvg-id="スポーツライブ+_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png?",(haru) スポーツライブ+
 http://58.186.230.75:9394/stream/150.m3u
