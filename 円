@@ -1,91 +1,91 @@
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",NHK G
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・総合_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe0-011-400x400.png",(zeni)NHK G
 https://coffee.linxei.biz.id/stream/jp/nhk_g/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",NHK E
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHK東京・教育_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe1-021-400x400.png",(zeni)NHK E
 https://coffee.linxei.biz.id/stream/jp/nhk_e/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="日本テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",日本テレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="日本テレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe2-041-400x400.png",(zeni)日本テレビ
 https://coffee.linxei.biz.id/stream/jp/ntv/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",TBS
+#EXTINF:-1 group-title="Tokyo" tvg-id="TBS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe3-061-400x400.png",(zeni)TBS
 https://coffee.linxei.biz.id/stream/jp/tbs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",テレビ朝日
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレビ朝日_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe5-051-400x400.png",(zeni)テレビ朝日
 https://coffee.linxei.biz.id/stream/jp/tv_asahi/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="テレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",テレビ東京
+#EXTINF:-1 group-title="Tokyo" tvg-id="テレ東_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe6-071-400x400.png",(zeni)テレビ東京
 https://coffee.linxei.biz.id/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",フジテレビ
+#EXTINF:-1 group-title="Tokyo" tvg-id="フジテレビ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7fe4-081-400x400.png",(zeni)フジテレビ
 https://coffee.linxei.biz.id/stream/jp/fuji_tv/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO・MX_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",Tokyo MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="TOKYO・MX_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7e87-091-400x400.png",(zeni)Tokyo MX1
 https://coffee.linxei.biz.id/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",(zeni)TOKYO MX2
 https://coffee.linxei.biz.id/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",毎日放送
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",(zeni)毎日放送
 https://coffee.linxei.biz.id/stream/jp/mbs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC朝日放送
+#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",(zeni)ABC朝日放送
 https://coffee.linxei.biz.id/stream/jp/abc/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",テレビ大阪
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",(zeni)テレビ大阪
 https://coffee.linxei.biz.id/stream/jp/tv_osaka/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",関西テレビ
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",(zeni)関西テレビ
 https://coffee.linxei.biz.id/stream/jp/kansai_tv/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",読売テレビ
+#EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",(zeni)読売テレビ
 https://coffee.linxei.biz.id/stream/jp/ytv/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS京都
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",(zeni)KBS京都
 https://coffee.linxei.biz.id/stream/jp/kbs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",サンテレビ
+#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",(zeni)サンテレビ
 https://coffee.linxei.biz.id/stream/jp/sun/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",NHK BS
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-101-400x400.png",(zeni)NHK BS
 https://coffee.linxei.biz.id/stream/jp/nhk_bs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",NHK BS4K
+#EXTINF:-1 group-title="BS" tvg-id="nhkbsp4k.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-000b-101-400x400.png",(zeni)NHK BS4K
 https://coffee.linxei.biz.id/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",BS日テレ
+#EXTINF:-1 group-title="BS" tvg-id="bsnippontv.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png",(zeni)BS日テレ
 https://coffee.linxei.biz.id/stream/jp/bs_ntv/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",BS朝日
+#EXTINF:-1 group-title="BS" tvg-id="bsasahi.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-151-400x400.png",(zeni)BS朝日
 https://coffee.linxei.biz.id/stream/jp/bs_asahi/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png",BS TBS
+#EXTINF:-1 group-title="BS" tvg-id="bstbs.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-161-400x400.png"(zeni),BS TBS
 https://coffee.linxei.biz.id/stream/jp/bs_tbs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",BSテレ東
+#EXTINF:-1 group-title="BS" tvg-id="bstvtokyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png",(zeni)BSテレ東
 https://coffee.linxei.biz.id/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",BSフジ
+#EXTINF:-1 group-title="BS" tvg-id="bsfuji.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png",(zeni)BSフジ
 https://coffee.linxei.biz.id/stream/jp/bs_fuji/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",WOWOW Prime 
+#EXTINF:-1 group-title="BS" tvg-id="wowowprime.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs191.gif",(zeni)WOWOWプライム 
 https://coffee.linxei.biz.id/stream/jp/wowow_prime/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",WOWOW Live
+#EXTINF:-1 group-title="BS" tvg-id="wowowlive.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs192.gif",(zeni)WOWOWライブ
 https://coffee.linxei.biz.id/stream/jp/wowow_live/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="BS" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",WOWOW Cinema
+#EXTINF:-1 group-title="BS" tvg-id="wowowcinema.jp" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/bs193.gif",(zeni)WOWOWシネマ
 https://coffee.linxei.biz.id/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="" tvg-id="WOWOWプラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png?",WOWOWプラス
+#EXTINF:-1 group-title="" tvg-id="WOWOWプラス_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-155-400x400.png?",(zeni)WOWOWプラス
 https://coffee.linxei.biz.id/stream/jp/wowow_plus/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png?",J-COM-BS
+#EXTINF:-1 group-title="" tvg-id="J-COM-BS_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-260-400x400.png?",(zeni)J-COM-BS
 https://coffee.linxei.biz.id/stream/jp/jcom_bs/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
 #EXTINF:-1 group-title="" tvg-id="BS10プレミアム_jp" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/280.jpg?",(zeni) BS10プレミアム
 https://coffee.linxei.biz.id/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="" tvg-id="BS10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png?,BS10
+#EXTINF:-1 group-title="" tvg-id="BS10_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-200-400x400.png?",(zeni)BS10
 https://coffee.linxei.biz.id/stream/jp/bs10/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
 #EXTINF:-1 group-title="" tvg-id="BS11-イレブン_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-211-400x400.png?",(zeni) BS11-イレブン
