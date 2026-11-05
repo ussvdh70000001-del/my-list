@@ -256,5 +256,5 @@ https://coffee.linxei.biz.id/stream/jp/space_shower_tv/stream-output.m3u8?mode=h
 #EXTINF:-1 group-title="" tvg-id="FIGHTING-TV-サムライ_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-128-400x400.png?",(zeni) FIGHTING-TV-サムライ
 https://coffee.linxei.biz.id/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
 
-#EXTINF:-1 group-title="" tvg-id="スポーツライブ+_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png?",(haru) スポーツライブ+
+#EXTINF:-1 group-title="" tvg-id="スポーツライブ+_jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-106-400x400.png?",(zeni) スポーツライブ+
 https://coffee.linxei.biz.id/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls&locate_stream=web&cs=v1.01
